@@ -197,7 +197,7 @@ nav>ul>li>a:hover {
 }
 
 .row2{
-  display:flex;
+  display:block;
 }
 
 .social-hover:hover {
