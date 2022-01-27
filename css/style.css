@@ -317,6 +317,9 @@ main {
 .story {
   padding-right: 20px;
 }
+.row2{
+  display:flex;
+}
 
 /* ==============================
 Large devices (900px or larger)
